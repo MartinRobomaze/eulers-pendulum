@@ -1,5 +1,5 @@
 # IYPT 2023 Euler's pendulum
-This repository is a partial solution for IYPT problem number 8. The solution contains a presentation of the solution, experimental data and jupyter notebooks used to process data in these folders:
+This repository is a partial solution for IYPT problem number 8. The solution contains experimental data and jupyter notebooks used to process data in these folders:
 
 - `data` - Contains all experimental data (only processed csv files),
 - `data_processing` - contains jupyter notebook where data is processed and graphs are generated,
@@ -16,4 +16,4 @@ This repository is a partial solution for IYPT problem number 8. The solution co
 
 Videos of exprimental data available at: (TODO soon).
 
-This presentation is partially based on presentations from the [Slovak YPT introductory meetup](tmfsr.sk/sk/aktuality/227) (presentations in slovak).
+This solution is partially based on presentations from the [Slovak YPT introductory meetup](tmfsr.sk/sk/aktuality/227) (presentations in slovak).
